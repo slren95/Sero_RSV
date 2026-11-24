@@ -1,0 +1,51 @@
+# R session state and RStudio local configuration
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+
+# OS / editor temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.swp
+*.swo
+~$*
+
+# Ignore all source data in data/
+/data/
+
+# Explicit paths currently larger than 100 MiB
+/code_03/fit_main/df_individual_wide_all.rds
+/code_03/fit_main_new/df_individual_wide_all.rds
+/code_03/fit_sens1/df_individual_wide_all.rds
+/code_03/fit_sens1_0.05_0.05/df_individual_wide_all.rds
+/code_03/fit_sens1_0.05_0.15/df_individual_wide_all.rds
+/code_03/fit_sens1_0.10_0.10/df_individual_wide_all.rds
+/code_03/fit_sens1_0.10_0.15/df_individual_wide_all.rds
+/code_03/fit_sens1_0.15_0.10/df_individual_wide_all.rds
+/code_03/fit_sens1_0.15_0.15/df_individual_wide_all.rds
+/code_03/fit_sens1_2/df_individual_wide_all.rds
+/code_03/fit_sens2/df_individual_wide_all.rds
+/code_03/fit_sens3_12/df_individual_wide_all.rds
+/code_03/fit_sens3_9/df_individual_wide_all.rds
+/code_03/fit_sens4_1_1/df_individual_wide_all.rds
+/code_03/fit_sens4_5_5/df_individual_wide_all.rds
+/code_03/fit_sens5/df_individual_wide_all.rds
+/code_03/fit_simple/df_individual_wide_all.rds
+/code_03/fit_truncat/df_individual_wide_all.rds
+/code_03_new/fit_main_new/df_individual_wide_all.rds
+/code_03_new/fit_sen1.1_0.05_new/df_individual_wide_all.rds
+/code_03_new/fit_sen1.1_0.15_new/df_individual_wide_all.rds
+/code_03_new/fit_sen1.1_0.2_new/df_individual_wide_all.rds
+/code_03_new/fit_sens1.2_0.2_new/df_individual_wide_all.rds
+/code_03_new/fit_sens1.2_0.5_new/df_individual_wide_all.rds
+/code_03_new/fit_sens2_new/df_individual_wide_all.rds
+/code_03_new/fit_sens3_12_new/df_individual_wide_all.rds
+/code_03_new/fit_sens3_9_new/df_individual_wide_all.rds
+/code_03_new/fit_sens4_1_1_new/df_individual_wide_all.rds
+/code_03_new/fit_sens4_5_5_new/df_individual_wide_all.rds
+/code_03_new/fit_sens5_new/df_individual_wide_all.rds
+/code_04_new/code_04.2_plot_figure2_new.RData
